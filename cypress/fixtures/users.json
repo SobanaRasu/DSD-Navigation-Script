@@ -1,0 +1,39 @@
+{
+    "DSD_Admin" :[{
+      "ACCESS_MODULE_DISPLAY_NAME": "Data Sources Discovery",
+      "IS_ACCESS_GROUP": true,
+      "ACCESS_GROUPS": [{
+        "ACCESS_CONTROLS": [{
+          "ACCESS_CONTROL_DISPLAY_NAME": "Create\/Edit Application"
+        }, {
+          "ACCESS_CONTROL_DISPLAY_NAME": "View Application"
+        }, {
+          "ACCESS_CONTROL_DISPLAY_NAME": "Edit Discovery Schedule Settings"
+        }],
+        "ACCESS_GROUP_DISPLAY_NAME": "Manage Connectors\/Applications"
+      }, {
+        "ACCESS_CONTROLS": [{
+          "ACCESS_CONTROL_DISPLAY_NAME": "Manage Connectors"
+        }],
+        "ACCESS_GROUP_DISPLAY_NAME": "Home Page"
+      }]
+    }],
+    "DSD_User":[{
+        "ACCESS_MODULE_DISPLAY_NAME": "Data Sources Discovery",
+        "IS_ACCESS_GROUP": true,
+        "ACCESS_GROUPS": [{
+          "ACCESS_CONTROLS": [{
+            "ACCESS_CONTROL_DISPLAY_NAME": "View Application"
+          }],
+          "ACCESS_GROUP_DISPLAY_NAME": "Manage Connectors\/Applications"
+        }, {
+          "ACCESS_CONTROLS": [{
+            "ACCESS_CONTROL_DISPLAY_NAME": "Manage Connectors"
+          }],
+          "ACCESS_GROUP_DISPLAY_NAME": "Home Page"
+        }]
+      }]
+}
+
+
+

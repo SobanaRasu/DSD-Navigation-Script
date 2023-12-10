@@ -1,0 +1,10 @@
+{
+  "AdminUserName": "system",
+  "AdminPassword" : "3y3T@mAdm1n2@",
+  "signInAssetTextValue" : "Sign in",
+  "featureGroupPassword" : "fGp@20!14!",
+  "DSD_Features" : ["Slack","Gmail","Google Drive","Exchange Mailboxes","Employee devices","Google Calendar","Google Vault"],
+  "password" : "Exterro-123",
+  "DSD_Role" : ["DSD Admin","DSD User"]
+
+}

@@ -1,0 +1,29 @@
+{
+    "defaultCommandTimeout": 50000,
+  "pageLoadTimeout": 180000,
+  "requestTimeout": 180000,
+  "responseTimeout": 180000,
+  "env" : {
+    "URL" : "https://qadrp1asset1.exterrocloud.info/fusion/ui/pages/adminLogin.htm",
+    "tenantURL" : "https://dddashboard.exterrocloud.info/fusion/ui/pages/login.htm",
+    "Active Directory" : ["Network Share","Exchange Mailboxes","Employee devices"],
+    "Google Workspace" : ["Gmail","Google Calendar","Google Drive","Google Vault"],
+    "Box" : "User Accounts",
+    "Code 42" : "Devices",
+    "Confluence" : "Spaces",
+    "Druva Insync" : "User Accounts",
+    "Facebook Workplace" : ["User Accounts","Groups"],
+    "JIRA" : "Projects",
+    "FileNet" : "Object stores",
+    "Office 365" : ["Exchange Online","SharePoint Online","OneDrive","Teams","Yammer","OneNote"],
+    "Salesforce" : ["Salesforce CRM","Salesforce Chatter"],
+    "Slack" : "User Accounts",
+    "Zoom" : "User Accounts",
+    "DSD_Role" : ["DSD Admin","DSD User"]
+  },
+  
+    "viewportWidth": 1000,
+    "viewportHeight": 800,
+    "testFiles": "**/*.feature"
+
+}
